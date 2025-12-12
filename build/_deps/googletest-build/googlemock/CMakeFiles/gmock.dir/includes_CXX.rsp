@@ -1,0 +1,1 @@
+-IC:/Users/Alyona/2kurs/oop/7/include -I"C:/Users/Alyona/2kurs/oop/7/build/_deps/googletest-src/googlemock/include" -I"C:/Users/Alyona/2kurs/oop/7/build/_deps/googletest-src/googlemock" -isystem "C:/Users/Alyona/2kurs/oop/7/build/_deps/googletest-src/googletest/include" -isystem "C:/Users/Alyona/2kurs/oop/7/build/_deps/googletest-src/googletest"

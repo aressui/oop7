@@ -1,0 +1,13 @@
+NPCTest.NPCCreation 1 0.0065044
+NPCTest.CoordinatesValidation 1 0.0074281
+NPCTest.DistanceCalculation 1 0.0063767
+NPCTest.MovementDistances 1 0.0056186
+NPCTest.AliveState 1 0.0078932
+NPCTest.PositionSetting 1 0.0054872
+NPCTest.VisitorPatternCorrectness 1 0.0071357
+NPCTest.SquirrelFightLogic 1 0.0057225
+NPCTest.WerewolfFightLogic 1 0.0057017
+NPCTest.DruidFightLogic 1 0.0064069
+NPCTest.SaveAndLoad 1 0.0053715
+NPCTest.FactoryFunction 1 0.0063862
+---
